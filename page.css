@@ -1,0 +1,158 @@
+
+* {
+    box-sizing: border-box;
+  }
+  .Big1{
+   
+width: 800px;
+height: 550px;
+border: 5px solid  green !important;
+background: #FFFFFF;
+display: flex;
+margin: auto;
+}
+.big7{
+    font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 32px;
+margin-left: 80px;
+
+
+
+color: #000000;
+
+}
+.big8{
+    width: 30px;
+    height: 540px;
+  
+    background-color: #00AEFF;
+
+}
+.big9{
+    margin-left: 40px;
+}
+.big10{
+    display: flex;
+    margin-top: 60px;
+}
+.big11{
+
+    height: 25px;
+    width: 25px;
+}
+.big12{
+    margin-left: 20px;
+    margin-top: -20px;
+    height: 5%;
+    width: 15%;
+}
+.big13{
+    display: flex;
+}
+.big14{
+    font-family: Work Sans;
+font-style: normal;
+margin-top: -0px;
+font-weight: 200;
+font-size: 25px;
+}
+.big15{
+    margin-left: 20px;
+    margin-top: -25px;
+    height: 10%;
+    width: 10%;
+}
+.ing{
+    display: flex;
+}
+.big{
+    font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 56px;
+}
+.big2{
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.big3{
+    font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 25px;
+
+
+
+color: #000000;
+}
+.big4{
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 12px;
+
+
+
+color: #00AEFF;
+}
+.big5{
+    
+    font-style: normal;
+font-weight: bold;
+font-size: 19px;
+margin-top: 120px;
+
+
+letter-spacing: -0.03em;
+
+color: #000000;
+}
+.big6{
+    font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+margin-top: -20px;
+line-height: 30px;
+
+color: #000000;
+}
+.big7{
+    font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+margin-top: -0px;
+margin-left: 80px;
+
+
+
+
+color: #000000;
+}
+
+@media screen and (max-width: 992px) {
+    .Big1 {
+        width: 800px;
+        height: 550px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .Big1 {
+        width: 650px;
+        height: 550px;
+    }
+  }
